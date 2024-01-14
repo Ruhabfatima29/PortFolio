@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/a man typing on the laptop.avif";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "someone typing on laptop with dark theme";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Business Application: Election and Voting management system",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "My first Business application project in C++. It is a CLI based application that is used to manage the election and voting system. The basic purpose of this application is to basically fascilitate voting systems in this digital era.",
+    url: "https://github.com/Ruhabfatima29/Week4PD/blob/master/PFfinal/BuisnessApp.cpp",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Business Application: Using OOP in C#",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "My first Business application project in C# was the second version of my first business application. It is a desktop based application that is used to manage the election and voting system. The coding style in this project was more optimized as we used 3 Tier model and class object relations in it.",
+    url: "https://github.com/Ruhabfatima29/2nd-Semester-OOP-projects/tree/master/BuisnessApplication/VotingSystem",
   },
   {
-    title: "My Resume Site",
+    title: "Game: Mickey the Savior",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "My first desktop based game project in C#. The WinForms technology was used to develop this game. It is a game in which the mickey has to save Minnie from the enemies and collect the coins to increase the score, before his lives finish",
+    url: "https://github.com/Ruhabfatima29/2nd-Semester-OOP-projects/tree/master/MickeyGame/Mickey",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Airline Optimization System",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "It was a team project in DSA, we used pythonlanguage and Qt designer  to develop this project. It is a desktop based application that is used to manage the airline system. The basic purpose of this application is to basically optimize airline systems in this digital era. The time complexity of this application is much less using amazing data structures such as graphs, hashtables and avl tree.",
+    url: "https://gitlab.com/mwaliahmad/dsafinalprojectpid29",
   },
 ];
 
